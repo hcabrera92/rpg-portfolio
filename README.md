@@ -21,4 +21,4 @@ This project brings my creative journey to life, blending storytelling and web d
 - **Chapter 3:** Tales of Triumphs (Projects)  
 - **Chapter 4:** Join the Quest (Contact)  
 
-## If you want to collaborate on helping me make this code work better you're more than welcome
+If you want to collaborate on helping me make this code work better you're more than welcome, I've just started coding so any help is useful 🦾
